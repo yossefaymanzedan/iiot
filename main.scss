@@ -1,0 +1,18 @@
+$danger: #fbf9f6;
+$info: #5710b2;
+$list-group-active-color:         #181C32;
+$list-group-active-bg:             #e6e6e6;
+$list-group-border-width:        none;
+$list-group-border-radius:        5px;
+$list-group-bg:                  rgba(0, 0, 0, 0.185);
+$list-group-color:                white;
+$offcanvas-vertical-height:         100vh;
+$dropdown-border-width:          0px;
+$dropdown-padding-y:                0px;
+$modal-backdrop-bg:                 black;
+$modal-backdrop-opacity:            .8;
+
+.increasing {
+    color: #20d489;
+}
+@import "node_modules/bootstrap/scss/bootstrap";

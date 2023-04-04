@@ -1,0 +1,14 @@
+{
+  "name": "professional-expert",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch-sass": "node-sass -w main.scss style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  },
+  "description": ""
+}
